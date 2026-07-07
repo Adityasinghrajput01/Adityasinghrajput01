@@ -26,12 +26,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CGPA-9.02%2F10-00d4ff?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/DSA%20Solved-1000%2B-00d4ff?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/Trintera%20Hackathon-Rank%209th-00d4ff?style=for-the-badge&labelColor=0f0c29"/>
-<br/>
-<img src="https://img.shields.io/badge/Adobe%20India%20Hackathon-Top%20Rounds%20%2F%20125K%2B-00d4ff?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/OSS%20Stars-16%2B-00d4ff?style=for-the-badge&labelColor=0f0c29"/>
+<img src="./assets/stats-banner.svg" width="100%"/>
 
 </div>
 
