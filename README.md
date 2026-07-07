@@ -26,12 +26,12 @@
 
 <div align="center">
 
-```
-
-  ⚡ CGPA 9.02/10   ⚡ 1000+ DSA Solved   ⚡ 9th @ Trintera Hackathon
-  ⚡ Top rounds among 125,000+ (Adobe India Hackathon)   ⚡ 16+ OSS Stars
-
-```
+<img src="https://img.shields.io/badge/CGPA-9.02%2F10-00d4ff?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/DSA%20Solved-1000%2B-00d4ff?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Trintera%20Hackathon-Rank%209th-00d4ff?style=for-the-badge&labelColor=0f0c29"/>
+<br/>
+<img src="https://img.shields.io/badge/Adobe%20India%20Hackathon-Top%20Rounds%20%2F%20125K%2B-00d4ff?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/OSS%20Stars-16%2B-00d4ff?style=for-the-badge&labelColor=0f0c29"/>
 
 </div>
 
@@ -94,6 +94,8 @@
 
 ### 🚕 [NYC Taxi Trip Duration Prediction](https://nyc-taxi-trip-duration-api.onrender.com/docs)
 **End-to-end ML pipeline, live in production**
+
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fnyc-taxi-trip-duration-api.onrender.com%2Fdocs&up_message=LIVE&up_color=00ff9d&down_message=offline&down_color=ff4d4d&style=flat-square&label=API%20status"/>
 
 `Python` `Scikit-learn` `FastAPI` `Docker` `Render`
 
@@ -187,7 +189,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityasinghrajput01&theme=tokyo-night&hide_border=true" width="95%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adityasinghrajput01&theme=tokyonight&no-frame=true&row=1&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Adityasinghrajput01&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="90%"/>
 
 </div>
 
