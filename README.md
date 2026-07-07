@@ -194,11 +194,51 @@
 
 <div align="center">
 
-### 🌐 Coding Profiles
+### 🌐 Coding Profile Achievements
 
 <a href="https://leetcode.com/u/aditya55555/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://www.codechef.com/users/aditya45245"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/adityasingh45245"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🟧 [LeetCode](https://leetcode.com/u/aditya55555/)**
+
+- Global Rank: **485,283**
+- Java: **259 solved** · MySQL: 27 · C++: 10
+- 🏅 50 Days Badge — 2025 & 2026
+- Strong in: `Array`(163) `String`(78) `Hash Table`(61) `Math`(51) `Two Pointers`(45)
+- Advanced: `Dynamic Programming` `Divide & Conquer` `Game Theory`
+
+</td>
+<td width="33%" valign="top">
+
+**⚫ [CodeChef](https://www.codechef.com/users/aditya45245)**
+
+- Rating: **1136** (1★, Div 4)
+- **675 problems solved**
+- 3 rated/unrated contests participated
+- 🥇 **Problem Solver — Gold Badge** (500+ problems)
+- 🔥 Daily Streak — Bronze Badge
+
+</td>
+<td width="33%" valign="top">
+
+**🟩 [HackerRank](https://www.hackerrank.com/profile/adityasingh45245)**
+
+- 🥇 **Gold Badge** (Oct 2024)
+- Active problem solver across multiple domains
+- Part of combined **1000+ DSA problems** solved across all platforms
+
+</td>
+</tr>
+</table>
+
+<img src="https://leetcard.jacoblin.cool/aditya55555?theme=dark&font=baloo2&ext=heatmap" width="90%"/>
 
 <br/><br/>
 
