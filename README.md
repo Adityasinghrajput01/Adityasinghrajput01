@@ -26,18 +26,18 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓_CGPA-9.02%2F10-0a0e1a?style=flat-square&labelColor=00d4ff&color=0a0e1a"/>
-<img src="https://img.shields.io/badge/🧩_DSA_SOLVED-1000%2B-0a0e1a?style=flat-square&labelColor=00d4ff&color=0a0e1a"/>
-<img src="https://img.shields.io/badge/🏆_TRINTERA_HACKATHON-RANK_9TH-0a0e1a?style=flat-square&labelColor=00d4ff&color=0a0e1a"/>
-<img src="https://img.shields.io/badge/🚀_ADOBE_INDIA_HACKATHON-TOP_125K%2B-0a0e1a?style=flat-square&labelColor=00d4ff&color=0a0e1a"/>
-<img src="https://img.shields.io/badge/⭐_OSS_STARS-16%2B-0a0e1a?style=flat-square&labelColor=00d4ff&color=0a0e1a"/>
+<img src="https://img.shields.io/badge/🎓_CGPA-9.02%2F10-0a0e1a?style=plastic&labelColor=141830&color=0891b2"/>
+<img src="https://img.shields.io/badge/🧩_DSA_SOLVED-1000%2B-0a0e1a?style=plastic&labelColor=141830&color=6d28d9"/>
+<img src="https://img.shields.io/badge/🏆_TRINTERA_HACKATHON-RANK_9TH-0a0e1a?style=plastic&labelColor=141830&color=0891b2"/>
+<img src="https://img.shields.io/badge/🚀_ADOBE_INDIA_HACKATHON-TOP_125K%2B-0a0e1a?style=plastic&labelColor=141830&color=6d28d9"/>
+<img src="https://img.shields.io/badge/⭐_OSS_STARS-16%2B-0a0e1a?style=plastic&labelColor=141830&color=0891b2"/>
 
 </div>
 
 <br/><br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/📊_1.45M%2B-REAL--WORLD_RECORDS_PROCESSED-0a0e1a?style=for-the-badge&labelColor=ff2d95&color=0a0e1a"/>
+<img src="https://img.shields.io/badge/📊_1.45M%2B-REAL--WORLD_RECORDS_PROCESSED-0a0e1a?style=for-the-badge&labelColor=141830&color=d6336c"/>
 </div>
 
 <br/>
@@ -196,7 +196,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🟢_LIVE-Auto--updating_daily-0a0e1a?style=flat-square&labelColor=00ff9d&color=0a0e1a"/>
+<img src="https://img.shields.io/badge/🟢_LIVE-Auto--updating_daily-0a0e1a?style=plastic&labelColor=141830&color=059669"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityasinghrajput01&theme=tokyo-night&hide_border=true" width="95%"/>
 
