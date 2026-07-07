@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Hi%2C%20I'm%20Aditya%20👋&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20I%20turn%20raw%20data%20into%20deployed%20products&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=250&section=header&text=Hi%2C%20I'm%20Aditya%20⚡&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20I%20turn%20raw%20data%20into%20deployed%20products&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/aditya-singh-173911321">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,22 +15,23 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Building+end-to-end+ML+pipelines...;From+raw+data+to+production+APIs;1000%2B+DSA+problems+solved;Turning+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+end-to-end+ML+pipelines...;From+raw+data+to+production+APIs;1000%2B+DSA+problems+solved;Turning+data+into+decisions" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Adityasinghrajput01&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Adityasinghrajput01&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
 
 </div>
 
 <br/>
 
-## ⚡ Quick Snapshot
-
 <div align="center">
 
-| 🎓 CGPA | 🧩 DSA Solved | 🏆 Hackathon Rank | 🚀 Hackathon Reach | ⭐ OSS Stars |
-|:---:|:---:|:---:|:---:|:---:|
-| **9.02 / 10** | **1000+** | **9th** (Trintera) | **Top rounds** among **125,000+** (Adobe India) | **16+** stars |
+```
+
+  ⚡ CGPA 9.02/10   ⚡ 1000+ DSA Solved   ⚡ 9th @ Trintera Hackathon
+  ⚡ Top rounds among 125,000+ (Adobe India Hackathon)   ⚡ 16+ OSS Stars
+
+```
 
 </div>
 
@@ -238,9 +239,7 @@
 </tr>
 </table>
 
-<img src="https://leetcard.jacoblin.cool/aditya55555?theme=dark&font=baloo2&ext=heatmap" width="90%"/>
-
-<br/><br/>
+<br/>
 
 ### 💬 Let's Build Something Great Together
 
@@ -249,7 +248,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 *"Thanks for stopping by — always open to collaborating on interesting data & ML problems!"* 🚀
 
