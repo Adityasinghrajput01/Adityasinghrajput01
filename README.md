@@ -34,7 +34,15 @@
 
 </div>
 
-> 🥇 **Gold-badge coder** on CodeChef & HackerRank · 🎯 Built an ML pipeline on **1.45M+ real-world records** deployed as a **live production API** · 📊 Delivered a **national-scale BI dashboard** with a custom risk-index metric
+<br/><br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/📊_1.45M%2B-REAL--WORLD_RECORDS_PROCESSED-0a0e1a?style=for-the-badge&labelColor=ff2d95&color=0a0e1a"/>
+</div>
+
+<br/>
+
+> 🥇 **Gold-badge coder** on CodeChef & HackerRank · 🎯 Built an ML pipeline on real-world records deployed as a **live production API** · 📊 Delivered a **national-scale BI dashboard** with a custom risk-index metric
 
 <br/>
 
@@ -185,6 +193,10 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasinghrajput01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=Adityasinghrajput01&theme=tokyonight&hide_border=true" width="48%"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🟢_LIVE-Auto--updating_daily-0a0e1a?style=flat-square&labelColor=00ff9d&color=0a0e1a"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityasinghrajput01&theme=tokyo-night&hide_border=true" width="95%"/>
 
