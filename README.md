@@ -189,12 +189,12 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Adityasinghrajput01&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"/>
+<!-- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Adityasinghrajput01&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasinghrajput01&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Adityasinghrajput01&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Adityasinghrajput01&theme=tokyonight&hide_border=true" width="48%"/> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <img src="https://img.shields.io/badge/🟢_LIVE-Auto--updating_daily-0a0e1a?style=plastic&labelColor=141830&color=059669"/>
 
