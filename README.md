@@ -129,14 +129,19 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Crime Analytics Dashboard — India
-**National-scale Power BI dashboard**
+### 🚗 Electric Vehicle Range Prediction
+**End-to-end Machine Learning & Interactive Power BI Dashboard**
 
-`Power BI` `DAX` `ETL`
+`Python` `Scikit-learn` `Power BI` `Pandas`
 
-- Custom **Risk Index** (crimes per 100k women) via DAX to normalize raw counts
-- Drill-down across **national → state → district**, sub-second filtering
-- Surfaced risk patterns invisible to raw-count analysis
+- Built a complete Machine Learning pipeline for predicting Electric Vehicle driving range using data preprocessing, feature engineering, model training, and evaluation.
+- Designed an interactive **Power BI dashboard** featuring business insights, environmental analysis, model evaluation, and key performance indicators.
+- Compared multiple regression models using **MAE, RMSE, and R² Score**, selecting the best-performing model for accurate range prediction.
+- Published a **live interactive Power BI dashboard** for real-time exploration of insights and visual analytics.
+
+🔗 **[Live Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiZTk5YTljNWQtMTZlZC00NzIxLTg0NzMtNzM3NTI4OWNlZWFlIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D&pageName=1b035829a525b5026387)**
+
+🔗 **[GitHub Repository →](https://github.com/Adityasinghrajput01/Electric-Vehicle-range-prediction)**
 
 </td>
 <td width="50%" valign="top">
