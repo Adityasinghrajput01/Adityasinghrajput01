@@ -141,8 +141,6 @@
 
 🔗 **[Live Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiZTk5YTljNWQtMTZlZC00NzIxLTg0NzMtNzM3NTI4OWNlZWFlIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D&pageName=1b035829a525b5026387)**
 
-🔗 **[GitHub Repository →](https://github.com/Adityasinghrajput01/Electric-Vehicle-range-prediction)**
-
 </td>
 <td width="50%" valign="top">
 
