@@ -132,7 +132,7 @@
 ### 🚗 Electric Vehicle Range Prediction
 **End-to-end Machine Learning & Interactive Power BI Dashboard**
 
-`Python` `Scikit-learn` `Power BI` `Pandas`
+`Python` `Scikit-learn` `Power BI` `Pandas` `Machine Learning`
 
 - Built a complete Machine Learning pipeline for predicting Electric Vehicle driving range using data preprocessing, feature engineering, model training, and evaluation.
 - Designed an interactive **Power BI dashboard** featuring business insights, environmental analysis, model evaluation, and key performance indicators.
