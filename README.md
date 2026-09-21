@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/🧩_DSA_SOLVED-1000%2B-0a0e1a?style=plastic&labelColor=141830&color=6d28d9"/>
 <img src="https://img.shields.io/badge/🏆_TRINTERA_HACKATHON-RANK_9TH-0a0e1a?style=plastic&labelColor=141830&color=0891b2"/>
 <img src="https://img.shields.io/badge/🚀_ADOBE_INDIA_HACKATHON-TOP_125K%2B-0a0e1a?style=plastic&labelColor=141830&color=6d28d9"/>
-<img src="https://img.shields.io/badge/⭐_OSS_STARS-16%2B-0a0e1a?style=plastic&labelColor=141830&color=0891b2"/>
+<img src="https://img.shields.io/badge/⭐_OSS_STARS-1%72B-0a0e1a?style=plastic&labelColor=141830&color=0891b2"/>
 
 </div>
 
